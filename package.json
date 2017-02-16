@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/jasonmit/ember-intl-messageformat.git"
+    "url": "http://github.com/ember-intl/ember-intl-messageformat.git"
   },
-  "homepage": "https://github.com/jasonmit/ember-intl-messageformat",
+  "homepage": "https://github.com/ember-intl/ember-intl-messageformat",
   "engines": {
     "node": ">= 0.10.0"
   },
