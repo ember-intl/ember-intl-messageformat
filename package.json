@@ -36,7 +36,6 @@
     "ember-cli-uglify": "^1.2.0",
     "ember-disable-prototype-extensions": "^1.1.0",
     "ember-export-application-global": "^1.0.5",
-    "ember-intl-messageformat-parser": "^1.2.0",
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
     "intl": "1.0.1",
@@ -46,11 +45,10 @@
     "ember-addon"
   ],
   "dependencies": {
-    "broccoli-funnel": "^1.0.0",
     "broccoli-merge-trees": "^1.0.0",
     "broccoli-source": "^1.1.0",
     "ember-cli-babel": "^6.7.1",
-    "ember-intl-messageformat-parser": "^1.2.0",
+    "ember-intl-messageformat-parser": "^2.6.0",
     "intl-messageformat": "^2.0.0"
   },
   "ember-addon": {
