@@ -1,6 +1,6 @@
 {
   "name": "@ember-intl/messageformat-shim",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "A tiny wrapper around intl-messageformat to allow for ES6 importing intl-messageformat.",
   "keywords": [
     "ember-addon"
