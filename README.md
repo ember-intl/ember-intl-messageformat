@@ -1,4 +1,4 @@
-# ember-intl-messageformat
+# @ember-intl/messageformat-shim
 
 A thin wrapper around [intl-messageformat](https://github.com/yahoo/intl-messageformat) that allows for `import IntlMessageFormat from 'intl-messageformat';` from within your ember application.
 
