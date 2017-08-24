@@ -6,7 +6,7 @@ const path = require('path');
 const mergeTrees = require('broccoli-merge-trees');
 const UnwatchedDir = require('broccoli-source').UnwatchedDir;
 
-const messageFormatPath = path.dirname(require.resolve('intl-messageformat'));
+const messageFormatPath = path.dirname(require.resolve('@ember-intl/intl-messageformat'));
 
 module.exports = {
   name: 'intl-messageformat',
